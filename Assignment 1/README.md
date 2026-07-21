@@ -1,4 +1,4 @@
-# DIP M'25 Assignment 1
+# Assignment 1
 
 ```
 ├── src/
